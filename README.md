@@ -8,3 +8,5 @@ The Stock Picker takes an array of prices, the position of the array representin
 The Substrings takes a string and array with certain words. Then it test if the words in the array, or dictionary, occurs in the string.
 
 Bubble sort is a simple sorting algorithm that sorts an array from smallest to largest. Due to how simple it is, it runs at O(n^2). The bubble_sort_by method sorts an array of strings by their length, from smallest to largest.
+
+Enum creates a enumerable module which rebuilds some common methods that are often used in Ruby.

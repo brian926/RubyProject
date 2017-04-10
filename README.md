@@ -10,3 +10,5 @@ The Substrings takes a string and array with certain words. Then it test if the 
 Bubble sort is a simple sorting algorithm that sorts an array from smallest to largest. Due to how simple it is, it runs at O(n^2). The bubble_sort_by method sorts an array of strings by their length, from smallest to largest.
 
 Enum creates a enumerable module which rebuilds some common methods that are often used in Ruby.
+
+Fibonacci numbers are numbers that follow the Fibonacci sequence, every number after the first two is the sum of the two preceding ones. One method produces that many members of the fibonacci sequence thorugh iteration while the other does the same recursively.
